@@ -3,6 +3,8 @@
      . dont unmute urself unless you are the speaker 
      . turn on your camera during the meeting , so that the session is more interactive and productive. 
      . take responsibility about sex,region,politics.
+     
+     
      . always give applause by waving or signing claps .
      . grab the oppurtunity . speak when u get chance so that u can reduce fear of public speaking and 
        improve communication skills.
