@@ -3,7 +3,7 @@
 
 * documentated the points i learned and to be followed in ***toastmaster's meeting*** .
 
-  - [*TOASMASTER MEETING*](https://github.com/cleanhand/phase-1-pavanikoyyana/blob/main/Toastmaster%20meeting.md)
+  - [*TOASTMASTER MEETING*](https://github.com/cleanhand/phase-1-pavanikoyyana/blob/main/Toastmaster%20meeting.md)
 
 # ***4 AUG 2021***
 
