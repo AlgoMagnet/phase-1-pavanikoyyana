@@ -1,4 +1,4 @@
-# *TYPES OF C CONSTANTS *
+## *TYPES OF C CONSTANTS *
        
      * Primary Constants 
      * Secondary Constants
