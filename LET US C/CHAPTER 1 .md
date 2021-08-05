@@ -1,8 +1,8 @@
-## *TYPES OF C CONSTANTS *
+## ***TYPES OF C CONSTANTS ***
        
      * Primary Constants 
      * Secondary Constants
-# *primary constants*
+## *primary constants*
 
 ## integer constants
 
